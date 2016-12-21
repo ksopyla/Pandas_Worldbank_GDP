@@ -1,7 +1,7 @@
 # GDP data analysis in Pandas for 10 European countries
 
 Analysys of GDP for 10 European countries. 
-Data came from Wordbank [Word Development Indicatiors](http://databank.worldbank.org/data/reports.aspx?source=world-development-indicators)
+Data came from World bank [World Development Indicatiors](http://databank.worldbank.org/data/reports.aspx?source=world-development-indicators)
 
 
 
