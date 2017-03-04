@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 
-gdp = pd.read_csv('GDP_Poland_neighbours.csv')
+gdp = pd.read_csv('GDP_Eastern_Europe.csv')
 
 #we take only data, not additional informations
 gdp = gdp[0:-5]
