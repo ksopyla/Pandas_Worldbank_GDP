@@ -44,6 +44,11 @@ This project will teach you:
 * How to create regression plots in seaborn (sns.lmplot)
 * How to create bar plot witch stacked collumns
 
+Short Video presentation:
+
+[![World Bank Pandas Plot](https://img.youtube.com/vi/G1-HSWJmvEw/0.jpg)](https://www.youtube.com/watch?v=G1-HSWJmvEw)
+
+
 ## Files
 
 * GDP\_Eastern\_Europe.csv - data file, generated from World Bank Development Indicators
