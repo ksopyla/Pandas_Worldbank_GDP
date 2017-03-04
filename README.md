@@ -21,28 +21,38 @@ The goal is to answer the question:
 
 **How far in economic develpment eastern Europe conoutries are relative to developed countries like Germany and France?**
 
-We try to do it with a few visualization in seaborn and pandas. 
+To answer this question we will analyze four GDP factors:
+
+* GDP per capita ( US$)
+* GDO per capita growth (annual %)
+* GDP growth (annual %)
+* GDP (current US$)
+
+We visualize all indicators with seaborn and pandas matplotlib plots. Sample plot:
+
+![GDP per capita (current US$)](https://plon.io/files/58bab9581b12ce00012bd610)
+
 
 ## What will you learn? 
 
 This project will teach you: 
 
-* How to read cvs files in Pandas Data Frame
-* How to clean the data, remove missing values, remove unnecessary columns etc.
+* How to read cvs files into Pandas Data Frame
+* How to clean the data, remove missing values, remove unnecessary columns, convert dates etc.
 * How to create pivot table in Pandas
-* How to create plots in seaborn based on pandas data frame
-* How to create regression plots
+* How to create plots based on pandas data frame
+* How to create regression plots in seaborn (sns.lmplot)
+* How to create bar plot witch stacked collumns
 
 ## Files
 
-* GDP_Eastern_Europe.csv - data file, generated from World Bank Development Indicators
-* gdp_pandas_woldbank.py - main file with analysis
-* Gdp_regression.py - visualise the regresion plots
+* GDP\_Eastern\_Europe.csv - data file, generated from World Bank Development Indicators
+* gdp\_pandas\_woldbank.py - main file with analysis and plots
 
 
 
-The project was described in a blog entry(in polish)
 
-*  [Python pandas i wizualizacja danych PKB z World bank](http://ksopyla.com/2016/12/python-pandas-i-wizualizacja-danych-pkb-z-wordbank/)
+## Grab the code or run project in online IDE
+
 * You can [download code from github](https://github.com/ksopyla/Pandas_Wordbank_GDP)
-* You can [run the pandas analysis in your browser](https://plon.io/explore/)
+* You can [run the project in your browser](https://plon.io/explore/wordbank-gdp-analysis/o3IJwRgA3H4e2QtyZ)
