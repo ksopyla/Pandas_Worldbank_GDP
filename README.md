@@ -1,7 +1,43 @@
-# GDP data analysis in Pandas for 10 European countries
+# World bank GDP analysis for central and eastern Europe in Pandas 
 
-Analysys of GDP for 10 European countries. 
-Data came from World bank [World Development Indicatiors](http://databank.worldbank.org/data/reports.aspx?source=world-development-indicators)
+Project analysys the GDP (Gross domestic product) for 10 central and eastern European countries:
+
+* Poland
+* Germany
+* Belarus
+* Czech Republic
+* Slovak Republic
+* Hungary
+* Estonia
+* France
+* Ukraine
+
+All the analysis was done with use of [Pandas](http://pandas.pydata.org/) and [seaborn](http://seaborn.pydata.org/) library. 
+The data come from the World Bank [World Development Indicatiors](http://databank.worldbank.org/data/reports.aspx?source=world-development-indicators). 
+
+## Project Goal
+
+The goal is to answer the question: 
+
+**How far in economic develpment eastern Europe conoutries are relative to developed countries like Germany and France?**
+
+We try to do it with a few visualization in seaborn and pandas. 
+
+## What will you learn? 
+
+This project will teach you: 
+
+* How to read cvs files in Pandas Data Frame
+* How to clean the data, remove missing values, remove unnecessary columns etc.
+* How to create pivot table in Pandas
+* How to create plots in seaborn based on pandas data frame
+* How to create regression plots
+
+## Files
+
+* GDP_Eastern_Europe.csv - data file, generated from World Bank Development Indicators
+* gdp_pandas_woldbank.py - main file with analysis
+* Gdp_regression.py - visualise the regresion plots
 
 
 
