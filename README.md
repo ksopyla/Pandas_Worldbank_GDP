@@ -19,7 +19,7 @@ The data come from the World Bank [World Development Indicatiors](http://databan
 
 The goal is to answer the question: 
 
-**How far in economic develpment eastern Europe conoutries are relative to developed countries like Germany and France?**
+**How far in economic development eastern Europe countries are relative to developed countries like Germany and France?**
 
 To answer this question we will analyze four GDP factors:
 
